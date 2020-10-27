@@ -1,10 +1,10 @@
 # Freelancer Design.
 
-Diseño Web, utilizando HTML 5, CSS 3, JavaScript y Fetch API.
+Web Design, using HTML 5, CSS 3, JavaScript and Fetch API.
 
-Un diseño simple e interactivo con el cual podrían guisarse para futuros proyectos.
+A simple and beautiful design.
 
-Vista Previa: https://juanlugodegouveia.github.io/Freelancer-Design./.
+Preview: https://juanlugodegouveia.github.io/Freelancer-Design./.
 
 ## Copyright
 
